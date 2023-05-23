@@ -9,5 +9,5 @@ go run awesome-server
 
 To access the awesome-server, open a browser and go to `http://localhost:8090/awesome`
 
-[![SLSA 2](https://slsa.dev/images/gh-badge-level2.svg)](https://slsa.dev)
+[![SLSA 3](https://slsa.dev/images/gh-badge-level3.svg)](https://slsa.dev)
 
